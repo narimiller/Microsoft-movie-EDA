@@ -1,7 +1,6 @@
 ![director](images/director_shot.jpeg)
 
 # Microsoft Film Analysis
-***
 **Author:** Laura Miller
 
 ## Overview
